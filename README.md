@@ -33,14 +33,14 @@ As described above, we see some differences in temperature observation counts, t
 
 Further analyses were conducted to help provide further clarification on weather trends during the months of June and December to understand whether the business venture of opening up a surf and ice cream shop could be successful all year long:
 
-(1) A query was conducted to determine summary statistics of :
+(1) A query was conducted to determine summary statistics of precipitation observations for the month of June:
 
+![image](https://user-images.githubusercontent.com/85533099/136891268-df65e90f-0919-42de-b893-f9364b0e2d5f.png)
 
-(2) A query was conducted to identify the total number of employees retiring by department:
+(2) A query was conducted to determine summary statistics of precipitation observations for the month of December:
 
-![image](https://user-images.githubusercontent.com/85533099/135786161-dcf11253-e4b3-4be1-9e6d-473af97164a3.png)
+![image](https://user-images.githubusercontent.com/85533099/136891347-6e466b8d-44a1-4f03-9df8-18af687fa42d.png)
 
-  - According to the above query output, we see that the departments most dramatically affected by the "silver tsunami" will be (1) Development, which will be losing 24,245 employees; (2) Production, which will be losing 21,782 employees; and (3) Sales, which will be losing 14,304 employees. The other departments will still be losing a large number of employees as well, but these three departments are anticipated to be the most drastically affected. 
-
+  - According to the above query output, we again see a pattern of differences that are not necessarily so substantial to warrant concern that the surf and ice cream shop business venture would not be successful as a result of weather patterns. 
 
 
