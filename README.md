@@ -10,50 +10,31 @@ The purpose of the current analysis was to determine the feasibility of a new bu
 
 ## Results
 
--  A Retirement Titles table was created to identify all employees born between 1952-1955. The Retirement Titles table contained 133,776 records and revealed duplicate entries because of employees' promotions over the years. Below is a sample of the first 10 records in this table:
+Summary statistics examining temperature observations were calculated for the month of June:  
 
-![image](https://user-images.githubusercontent.com/85533099/135701862-8c07900f-37d5-4114-9182-d7779f4a6cbb.png)
+![image](https://user-images.githubusercontent.com/85533099/136884458-42b59500-29e2-4e25-bf32-058d869f8aab.png)
 
-- A Unique Titles table was created next to further hone the results of the table generated above and retrieve the most recent title of each employee. This permitted a more accurate number of the total number of retiring employees, i.e., 90,398 employees.  Below is a sample of the first 10 records in this table:
- 
-![image](https://user-images.githubusercontent.com/85533099/135701877-23b9f641-96ae-463b-adf0-dd612d8f2f26.png)
+Summary statistics examining temperature observations were calculated for the month of December:
 
-- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Most notably, engineers at multiple levels comprise  45,397 of the total number of retiring employees, while 57,668 of retiring employees hold "Senior" titles. Below is the table containing this information:
+![image](https://user-images.githubusercontent.com/85533099/136884558-f2634810-afef-4f0a-ae17-2b162994e800.png)
 
-![image](https://user-images.githubusercontent.com/85533099/135701887-60343304-38f9-461b-9623-b3aafec8f188.png)
+In comparing these results, we can see the following differences:
 
-- A Mentorship Eligibility table was created to generate a list of current employees born in 1965 who would be eligible to participate in a mentorship program to assist with transitioning newly-hired employees. This table contains a total of 1,549 employees. Below is a sample of the first 10 records in this table:
+  -  The count of temperature observations is 1,700 in June versus 1,517 temperature observations in December
+  -  The mean temperature observation for the month of June is 74.94 degrees with a standard deviation of 3.25 while the mean temperature observation for the month of December is 71.04 degrees with a standard deviation of 3.75. 
+  -  The minimum temperature observation for the month of June is 64 degrees and 56 degrees for the month of December
+  -  The temperature observation value falling at the 25th percentile is 73 degrees for June and 69 degrees for December
 
-![image](https://user-images.githubusercontent.com/85533099/135702770-c82108f8-1c0f-46e9-9da7-7159882fba9a.png)
+## Summary 
 
-
-## Summary
-
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
-As indicated above, the current analysis reveals that a total of 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact:
-
-  - Senior Engineers (29,414) and Senior Staff (28,254) are the top two groups anticipated to retire followed by the next two groups, i.e., Engineers (14,222) and Staff (12,243)
-  
-  - Technique Leaders (4,502) and Assistant Engineers (1,761) are two groups with a significantly lower number of employees anticipated to retire when compared to the numbers above, but still are indicative of rather large numbers 
- 
-  - Only two Managers are slated to retire 
-  
-  - As stated above, Pewlett Hackard will experience a major loss of 45,397 total engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers
-  
-  - Additionally, 57,668 of retiring employees hold "Senior" titles, which signifies a significant loss of the workforce who hold leadership positions. 
-
-### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
-According to the current analysis, there are only 1,549 employees who are born in the year 1965 who would be eligible to participate in a mentorship program to assist with transitioning newly-hired employees. This is a dramatically low number and signifies that Pewlett Hackard appears to be suffering from a lack of enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees if the criteria to be a mentor only involves those born in the year 1965. 
+As described above, we see some differences in temperature observation counts, the mean temperature observation, the minimum temperature observation, and the temperature observation values falling at the 25th percentile. However, the other data points point to very similar observation values, including the median temperature observation at 75 degrees for June and 71 degrees for December as well as the temperature observation values falling at the 75th percentile (77 degress in June and 74 degrees in December). The maximum temperature observation values are almost identical with June at 85 degress and December at 83 degrees. Thus, the differences noted above do not necessarily reveal a substantial discrepancy in temperatures between the months of December and June, and summary statistics data show similar observed values. 
 
 ### Additional insights
 
-Due to the concerning numbers obtained in the current analysis, some further analyses were conducted to better help Pewlett Hackard understand the impact of the "silver tsunami" by department. 
+Further analyses were conducted to help provide further clarification on weather trends during the months of June and December to understand whether the business venture of opening up a surf and ice cream shop could be successful all year long:
 
-(1) A Retirement Departments table was created to add department names into the above list of retiring employees by title. Below is a sample of the first 10 records of this table:
+(1) A query was conducted to determine summary statistics of :
 
-![image](https://user-images.githubusercontent.com/85533099/135736452-18e3717d-0f10-467e-a796-c512b9c32232.png)
 
 (2) A query was conducted to identify the total number of employees retiring by department:
 
@@ -61,10 +42,5 @@ Due to the concerning numbers obtained in the current analysis, some further ana
 
   - According to the above query output, we see that the departments most dramatically affected by the "silver tsunami" will be (1) Development, which will be losing 24,245 employees; (2) Production, which will be losing 21,782 employees; and (3) Sales, which will be losing 14,304 employees. The other departments will still be losing a large number of employees as well, but these three departments are anticipated to be the most drastically affected. 
 
-(3) Another query was conducted to identify the total number of retiring employees by title within each department:
-
-![image](https://user-images.githubusercontent.com/85533099/135737042-2601daa7-b95b-42e3-a7e6-9a14868c4d92.png)
-
-  - The above query output can be further parsed into separate lists that can be distributed to the department managers of each department within Pewlett Hackard. It is hoped that, by viewing this list of the number of employees retiring per title, the department managers can have a better understanding of which roles will need to be filled and they can prepare for recruitment of new employees. This might be a good first step towards beginning the daunting task of preparing for the "silver tsunami" when we see the numbers in this way versus a more general list just depicting employees by title that was created above with the Retiring Titles table.  
 
 
