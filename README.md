@@ -6,7 +6,7 @@ The purpose of the current analysis was to determine the feasibility of a new bu
 
 ## Resources
 - Data Sources: hawaii.sqlite (SQLite database)
-- Software: VSCode, Jupyter Notebook, Python, SQLAlchemy, Matplotlib, Numpy, Pandas, Flask 
+- Software: VSCode, Python 3.7.10, Anaconda 1.7.2, Jupyter Notebook, Python, SQLAlchemy, Matplotlib, Numpy, Pandas, Flask 
 
 ## Results
 
