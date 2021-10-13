@@ -35,7 +35,7 @@ Further analyses were conducted to help provide further clarification on weather
 
 (1) A query was conducted to determine summary statistics of precipitation observations for the month of June:
 
-![image](https://user-images.githubusercontent.com/85533099/137063737-7e33e58c-4f41-4bd6-aa8a-9bf2daa52027.png)
+![image](https://user-images.githubusercontent.com/85533099/137067296-75935ffe-1759-4a56-b832-b22a759b47e0.png)
 
 (2) A query was conducted to determine summary statistics of precipitation observations for the month of December:
 
