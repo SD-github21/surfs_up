@@ -41,7 +41,7 @@ Further analyses were conducted to help provide further clarification on weather
 
 ![image](https://user-images.githubusercontent.com/85533099/137063748-45682a53-53d2-4939-8c78-54fdd32262d8.png)
 
-According to the above query output:
+According to the above query results:
   - The count for June precipitation observations is 1,574 versus 1,405 for December precipitation observations
   - The mean for June precipitation observations is 0.14 with a standard deviation of 0.34 while the mean for December precipitation observations is 0.22 with a standard deviation of 0.54
   - The maximum precipitation observed for June is 4.43 while the maximum precipitation observed for December is 6.42.  
