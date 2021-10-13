@@ -35,11 +35,11 @@ Further analyses were conducted to help provide further clarification on weather
 
 (1) A query was conducted to determine summary statistics of precipitation observations for the month of June:
 
-![image](https://user-images.githubusercontent.com/85533099/136891268-df65e90f-0919-42de-b893-f9364b0e2d5f.png)
+![image](https://user-images.githubusercontent.com/85533099/137063350-ffce8517-1f1d-499d-ba41-dc90d8906849.png)
 
 (2) A query was conducted to determine summary statistics of precipitation observations for the month of December:
 
-![image](https://user-images.githubusercontent.com/85533099/136891347-6e466b8d-44a1-4f03-9df8-18af687fa42d.png)
+![image](https://user-images.githubusercontent.com/85533099/137063499-c9675719-58bc-4ae3-86da-5fb4fd2e2790.png)
 
 According to the above query output:
   - The count for June precipitation observations is 1,574 versus 1,405 for December precipitation observations
