@@ -12,11 +12,11 @@ The purpose of the current analysis was to determine the feasibility of a new bu
 
 Summary statistics examining temperature observations were calculated for the month of June:  
 
-![image](https://user-images.githubusercontent.com/85533099/136884458-42b59500-29e2-4e25-bf32-058d869f8aab.png)
+![image](https://user-images.githubusercontent.com/85533099/137063580-e84753cd-2cad-4d22-b715-9ea63f1cb545.png)
 
 Summary statistics examining temperature observations were calculated for the month of December:
 
-![image](https://user-images.githubusercontent.com/85533099/136884558-f2634810-afef-4f0a-ae17-2b162994e800.png)
+![image](https://user-images.githubusercontent.com/85533099/137063592-0eb5549a-7c31-4317-b1c2-583638fde503.png)
 
 In comparing these results, we can see the following differences:
 
@@ -35,11 +35,11 @@ Further analyses were conducted to help provide further clarification on weather
 
 (1) A query was conducted to determine summary statistics of precipitation observations for the month of June:
 
-![image](https://user-images.githubusercontent.com/85533099/137063350-ffce8517-1f1d-499d-ba41-dc90d8906849.png)
+![image](https://user-images.githubusercontent.com/85533099/137063737-7e33e58c-4f41-4bd6-aa8a-9bf2daa52027.png)
 
 (2) A query was conducted to determine summary statistics of precipitation observations for the month of December:
 
-![image](https://user-images.githubusercontent.com/85533099/137063499-c9675719-58bc-4ae3-86da-5fb4fd2e2790.png)
+![image](https://user-images.githubusercontent.com/85533099/137063748-45682a53-53d2-4939-8c78-54fdd32262d8.png)
 
 According to the above query output:
   - The count for June precipitation observations is 1,574 versus 1,405 for December precipitation observations
