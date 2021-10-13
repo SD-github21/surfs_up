@@ -21,7 +21,7 @@ Summary statistics examining temperature observations were calculated for the mo
 In comparing these results, we can see the following differences:
 
   -  The count of temperature observations is 1,700 in June versus 1,517 temperature observations in December
-  -  The mean temperature observation for the month of June is 74.94 degrees with a standard deviation of 3.25 while the mean temperature observation for the month of December is 71.04 degrees with a standard deviation of 3.75. 
+  -  The mean temperature observation for the month of June is 74.94 degrees with a standard deviation of 3.26 while the mean temperature observation for the month of December is 71.04 degrees with a standard deviation of 3.75. 
   -  The minimum temperature observation for the month of June is 64 degrees and 56 degrees for the month of December
   -  The temperature observation value falling at the 25th percentile is 73 degrees for June and 69 degrees for December
 
