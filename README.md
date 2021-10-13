@@ -51,5 +51,5 @@ For our additional analyses, we see a similar pattern of differences for precipi
 
 ## Conclusions
 
-**Therefore, based upon these findings, the differences in temperature and precipitation data between June and December are not substantial enough to warrant concern that the surf and ice cream shop business venture would not be successful as a result of observed weather patterns. In other words, it appears that this business venture of opening up a surf and ice cream shop could be very successful all year long based on observed weather patterns revealing suitable weather for both surfing and consuming ice cream.** 
+**Based upon these findings, the differences in temperature and precipitation data between June and December are not substantial enough to warrant concern that the surf and ice cream shop business venture would not be successful as a result of observed weather patterns. In other words, it appears that this business venture of opening up a surf and ice cream shop could be very successful all year long based on observed weather patterns revealing suitable weather for both surfing and consuming ice cream.** 
 
